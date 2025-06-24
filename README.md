@@ -61,4 +61,4 @@ The dataset includes **500,000+ Black Friday transactions** from various years a
    This age group has the **highest per-transaction spending**. Offer exclusive pre-sale access, loyalty rewards, and personalized product suggestions.
 
 6. **Post-Black Friday Engagement**  
-   C
+   After Black Friday, walmart should engage with customers who made purchases by sending follow-up emails or offers for related products. This can help increase customer retention and encourage repeat business      throughout the holiday season and beyond.
